@@ -1,0 +1,46 @@
+.jumbotron {
+	background-image: url('fotobersama.jpg');
+	background-size: cover;
+	height: 500px;
+}
+
+.jumbotron .display-4 {
+	margin-top: 120px;
+	margin-left: 280px;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.jumbotron .lead {
+	margin-left: 180px;
+}
+
+.card {
+	width: 20rem;
+	margin-top: -150px;
+}
+
+.card .display-4 {
+	font-size: 35px;
+}
+
+.container {
+	margin-right: -4;
+	margin-top: 5px;
+}
+
+.container .row .col-sm-12 {
+	margin-top: 5px;
+}
+
+.footer {
+	text-align: center;
+}
+
+.footer {
+	text-align: center;
+}
+
+.row {
+	background-size: 30px;
+}
